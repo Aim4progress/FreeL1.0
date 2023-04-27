@@ -2,7 +2,7 @@
   "name": "freel1.0",
   "version": "1.0.0",
   "description": "Freelancing Website",
-  "main": "server.js",
+  "main": "server/server.js",
   "type": "module",
   "scripts": {
     "start": "node server/server.js",
